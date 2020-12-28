@@ -19,6 +19,10 @@
 
 <img src="https://www.upsieutoc.com/images/2020/12/28/tintuc.png" alt="tintuc" border="0">
 
+# Nội dung các bảng trong cơ sở dữ liệu
+
+<img src="https://github.com/tiendatmagic/Thi_KTM_WebTM/blob/master/img/7.png">
+
   
    
   
